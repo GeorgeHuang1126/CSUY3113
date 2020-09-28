@@ -30,6 +30,7 @@ float twenty3_x = 0;
 float twenty4_x = 0;
 float twenty5_x = 0;
 float apex_rotate = 0;
+float dir = 1.0;
 
 GLuint twenty1TextureID;
 GLuint twenty2TextureID;
@@ -135,10 +136,15 @@ void Update() {
     twenty4_x += 0.6f * deltaTime;
     twenty5_x += 0.8f * deltaTime;
     apex_rotate -= 30.0f * deltaTime;
+    apex_x += dir * deltaTime;
 
     apexMatrix = glm::mat4(1.0f);
     apexMatrix = glm::translate(apexMatrix, glm::vec3(-0.0f, 3.2f, 0.0f));
     apexMatrix = glm::scale(apexMatrix, glm::vec3(1.5f, 1.5f, 1.0f));
+    apexMatrix = glm::translate(apexMatrix, glm::vec3(apex_x, 0.0f, 0.0f));
+    if (apex_x > 3.0f || apex_x < -3.0f) {
+        dir = dir * (-1.0);
+    }
 
     twenty1Matrix = glm::mat4(1.0f);
     twenty1Matrix = glm::translate(twenty1Matrix, glm::vec3(0.0f, 2.3f, 0.0f));
