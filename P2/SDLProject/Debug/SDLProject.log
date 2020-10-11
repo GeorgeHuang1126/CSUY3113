@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\steve\Documents\CSUY3113\P2\SDLProject\main.cpp(140,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\steve\Documents\CSUY3113\P2\SDLProject\main.cpp(141,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\steve\Documents\CSUY3113\P2\SDLProject\main.cpp(152,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  ShaderProgram.cpp
-  Generating Code...
-  SDLProject.vcxproj -> C:\Users\steve\Documents\CSUY3113\P2\SDLProject\Debug\SDLProject.exe
