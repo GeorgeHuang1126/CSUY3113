@@ -1,0 +1,4 @@
+C:\Users\steve\OneDrive\Desktop\SDLProject\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\SDLProject\Debug\SDLProject.pdb
+C:\Users\steve\OneDrive\Desktop\P5\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\P5\Debug\SDLProject.pdb
