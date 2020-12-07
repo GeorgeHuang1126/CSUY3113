@@ -1,0 +1,22 @@
+﻿  Entity.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(59,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(60,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.cpp(239,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.cpp(243,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Level1.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(59,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(60,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(59,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(60,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Map.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Map.cpp(84,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\steve\Documents\CSUY3113\P6\P6\Map.cpp(85,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(59,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\steve\Documents\CSUY3113\P6\P6\Entity.h(60,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ShaderProgram.cpp
+  Util.cpp
+C:\Users\steve\Documents\CSUY3113\P6\P6\Util.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\steve\Documents\CSUY3113\P6\P6\Debug\SDLProject.exe

@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Desktop\SDLProject\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\SDLProject\Debug\SDLProject.pdb
+C:\Users\steve\OneDrive\Desktop\P5\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\P5\Debug\SDLProject.pdb
+E:\P5\Debug\SDLProject.exe
+E:\P5\Debug\SDLProject.pdb
+C:\Users\steve\OneDrive\Desktop\P5 - Copy\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\P5 - Copy\Debug\SDLProject.pdb
+C:\Users\steve\OneDrive\Desktop\P5 2\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\P5 2\Debug\SDLProject.pdb
+C:\Users\steve\OneDrive\Desktop\P6\Debug\SDLProject.exe
+C:\Users\steve\OneDrive\Desktop\P6\Debug\SDLProject.pdb
+C:\Users\steve\Documents\CSUY3113\P6\P6\Debug\SDLProject.exe
+C:\Users\steve\Documents\CSUY3113\P6\P6\Debug\SDLProject.pdb
