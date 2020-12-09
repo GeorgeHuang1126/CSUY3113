@@ -56,8 +56,8 @@ public:
 
     int enemiesKilled = 0;
 
-    float width = 0.4;
-    float height = 0.8;
+    float width = 0.6;
+    float height = 0.6;
 
     bool isActive = true;
     bool isWin = false;
